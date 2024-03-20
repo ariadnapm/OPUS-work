@@ -4,4 +4,3 @@ brukeropusreader
 pandas
 altair
 xlsxwriter
-io

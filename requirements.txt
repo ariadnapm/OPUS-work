@@ -4,5 +4,4 @@ brukeropusreader
 pandas
 altair
 xlsxwriter
-tempfile
 io
